@@ -1,11 +1,9 @@
 import React from 'react'
-//savanbalar
-//deep alagiya
+
 const Demo1 = () => {
   return (
     <div className='container-fluid'>
       {/* aaaaaaaaaa */}
-      // jasmin
       {/* <div className='row'>
         <div className='col-sm text-danger bg-primary' >1</div>
         <div className='col-sm bg-success'>1</div>
